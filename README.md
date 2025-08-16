@@ -1,12 +1,12 @@
 ![](./src/analogClock.gif)
 
-⏰ Analog Clock
+## ⏰ Analog Clock
 
-This project is a real-time analog clock built using HTML, CSS, and JavaScript. 🕒
+✅This project is a real-time analog clock built using HTML, CSS, and JavaScript. 🕒
 
-The hour, minute, and second hands move in real-time, providing the user with the current time in a visually appealing way. 🌟
+✅The hour, minute, and second hands move in real-time, providing the user with the current time in a visually appealing way. 🌟
 
-✨ Features
+## ✨ Features
 
 🕰 Real-time movement – Live clock updates with JavaScript
 
@@ -14,7 +14,7 @@ The hour, minute, and second hands move in real-time, providing the user with th
 
 📱 Responsive design – Optimized for all devices
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 🖼 HTML5 – Structural layout
 
